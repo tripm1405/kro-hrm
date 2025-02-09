@@ -1,1 +1,1 @@
-# kro-hrm
+# KroSystem
